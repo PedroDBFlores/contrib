@@ -1,9 +1,9 @@
 package casbin
 
 import (
-	"github.com/casbin/casbin/v2"
-	"github.com/casbin/casbin/v2/persist"
-	fileadapter "github.com/casbin/casbin/v2/persist/file-adapter"
+	"github.com/casbin/casbin/v3"
+	"github.com/casbin/casbin/v3/persist"
+	fileadapter "github.com/casbin/casbin/v3/persist/file-adapter"
 	"github.com/gofiber/fiber/v3"
 )
 
